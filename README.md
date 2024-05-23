@@ -1,2 +1,9 @@
 # kuba2010123.github.io
  goanimate assets 2024 custom assets
+
+
+{
+	"SWF_URL": "https://kuba2010123.github.io/GoAnimate-Assets-2024/animation/2016",
+	"STORE_URL": "https://kuba2010123.github.io/GoAnimate-Assets-2024/store/3a981f5cb2739137",
+	"CLIENT_URL": "https://kuba2010123.github.io/GoAnimate-Assets-2024/static/ad44370a650793d9"
+}
